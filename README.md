@@ -3,7 +3,7 @@
 
 ## 📋 Tóm tắt đề bài
 
-Xây dựng một CMS nhỏ cho phép admin đã điều chỉnh nội dung trên trang chủ — một trang chủ gồm đúng ba phần:
+Xây dựng một CMS nhỏ cho phép admin điều chỉnh nội dung trên trang chủ — một trang chủ gồm đúng ba phần:
 
 1. **Banner**
 
