@@ -35,10 +35,6 @@ Không cần CRUD linh hoạt — chỉ một bản ghi cấu hình duy nhất c
 * **Cài đặt** các package:
 ### 2. Xác thực Admin
 ### 3. Định nghĩa dữ liệu cho Trang chủ & Lưu trữ
-
-* **JSON File**: đọc/ghi vào `/data/homepage.json`.
-* **MongoDB**: sử dụng Mongoose, lưu một document duy nhất, cập nhật bằng `findOneAndUpdate()`.
-
 ### 4. Giao diện & Routes cho Admin
 
 | Phương thức | Đường dẫn         | Hành động                                | View                       |
