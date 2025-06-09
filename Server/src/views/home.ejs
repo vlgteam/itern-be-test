@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Trang chủ</title>
+  </head>
+  <body>
+    <form id="create-form">
+      <input
+        type="text"
+        name="name"
+        id="name"
+        placeholder="Tên sản phẩm"
+        required
+      />
+      <input
+        type="text"
+        name="link"
+        id="link"
+        placeholder="Link sản phẩm"
+        required
+      />
+      <input type="file" name="image" accept="image/*" />
+      <button type="submit">Lưu</button>
+    </form>
+    <h1>Sản phẩm nổi bật</h1>
+
+    <ul id="product-list"></ul>
+    <script src="../public/js/home.js"></script>
+  </body>
+</html>
